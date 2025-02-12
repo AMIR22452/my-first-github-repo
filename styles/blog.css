@@ -1,3 +1,7 @@
 div{
     background-color: aqua;
+    margin: 20px;
+    padding: 10px;
+    border: 10px solid tomato;
+    border-radius: 20px;
 }
